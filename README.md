@@ -36,7 +36,6 @@ pools.
 ## Repository Contents
 
 ```text
-ModelFinal.c              C implementation of the ODE right-hand side
 ModelFinal_R.c            R-generated C interface/helper code
 ModelFinal_para.R         Model parameter definitions
 ModelFinal_Control.R      Main model run script
